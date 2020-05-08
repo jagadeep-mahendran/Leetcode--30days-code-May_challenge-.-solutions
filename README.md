@@ -1,2 +1,2 @@
-# Leetcoe-May-month-31-days-challenge-.
+# Leetcode-May-month-31-days-challenge-.
 Solutions in java 

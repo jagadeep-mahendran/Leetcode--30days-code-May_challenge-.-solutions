@@ -1,4 +1,9 @@
+/*here m is slope m=(y2-y2)/(x2-x1);
+ this is slope for 2 point .. 
+ In a line of points
+ slope between any two points is equal to slope between some other two points*/
 
+//Here is the solution..
 class Solution {
     public boolean checkStraightLine(int[][] co) {
            int n=co.length;

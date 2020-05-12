@@ -3,8 +3,7 @@ class Solution {
         int n=a.length;
         int res=0;
         int f=0;
-        if(n==1)
-             return a[0];
+        
         for(int i=0;i<n-1;i=i+2)
         {
             if(a[i]!=a[i+1])
